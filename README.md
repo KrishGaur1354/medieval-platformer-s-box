@@ -41,11 +41,3 @@ This game is currently in its very early stages of development. Features and gam
 As this project is in early development, please reach out before making any contributions.
 
 *This is a game in development for S&box platform. All rights reserved.*
-
-[Your preferred contact method]
-
----
-*This is a game in development for S&box platform. All rights reserved.*
-```
-
-Would you like me to modify any section or add more details to the README?
